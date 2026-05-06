@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📫 Contact: <b>minhnm162@gmail.com</b> | 
+  📫 Contact: <b>minhbbiim123@gmail.com</b> | 
   LinkedIn: <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BB%93-nh%E1%BA%ADt-minh-128285358/">Nguyễn Hồ Nhật Minh</a> | 
   GitHub: <b>minhnm162</b>
 </p>
@@ -133,17 +133,17 @@ Focused on clean project structure, Git workflow, and practical implementation.
 ## 💼 Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-333?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/API%20Design-333?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/LaTeX-333?style=for-the-badge&logo=latex" />
-  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Python-89C2D9?style=for-the-badge&logo=python&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/Java-D4A373?style=for-the-badge&logo=openjdk&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/PyTorch-F4A261?style=for-the-badge&logo=pytorch&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/TensorFlow-E5989B?style=for-the-badge&logo=tensorflow&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-E9C46A?style=for-the-badge&logo=scikitlearn&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/React-8ECAE6?style=for-the-badge&logo=react&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/API%20Design-84A59D?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-B8C0FF?style=for-the-badge&logo=mysql&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/PostgreSQL-A0C4FF?style=for-the-badge&logo=postgresql&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/LaTeX-95D5B2?style=for-the-badge&logo=latex&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/Git-F28482?style=for-the-badge&logo=git&logoColor=1F2937" />
 </p>
 
 ---
@@ -170,5 +170,5 @@ Focused on clean project structure, Git workflow, and practical implementation.
 ---
 
 <p align="center">
-  📫 Contact: <b>minhnm162@gmail.com</b> | GitHub: <b>minhnm162</b>
+  📫 Contact: <b>minhbbiim123@gmail.com</b> | GitHub: <b>minhnm162</b>
 </p>
